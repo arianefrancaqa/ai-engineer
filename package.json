@@ -1,0 +1,22 @@
+{
+  "name": "ai-engineer",
+  "version": "1.0.0",
+  "description": "ai course",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianefrancaqa/ai-engineer.git"
+  },
+  "author": "Ariane Franca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianefrancaqa/ai-engineer/issues"
+  },
+  "homepage": "https://github.com/arianefrancaqa/ai-engineer#readme",
+  "dependencies": {
+    "openai": "^4.80.1"
+  }
+}
