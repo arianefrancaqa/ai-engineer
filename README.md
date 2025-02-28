@@ -111,11 +111,6 @@ Example request body:
 
 ---
 
-## 🤝 Contributing
-If you’d like to improve this project, fork the repo and submit a PR! 🚀  
-
----
-
 ## 📄 License
 This project is for educational purposes. Feel free to use it as a reference.  
 
